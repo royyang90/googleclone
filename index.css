@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.layout{
+    width: 100%;
+    height: 100vh;
+}
+
+.header{
+  width: 100%;
+  height: 50px;
+  border: 1px solid #000;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  position: relative;
+}
+
+.flexcontainer{
+
+    
+
+}
+
+.menu{
+    width: 100px;
+    height: 30px;
+    background-color: aqua;
+    text-align: center;
+    
+    
+
+}
+.main{
+
+}
+
+.footer{
+
+}
